@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/peewee/commit/e245a01b1f57005e7ae315736da8e6a70e65afba",
       "git:hexsha": "e245a01b1f57005e7ae315736da8e6a70e65afba",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "4.5.3"
     },
     {
